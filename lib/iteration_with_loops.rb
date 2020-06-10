@@ -48,6 +48,6 @@ while row_index < src.count do
   outer_results << min_value
   row_index +=1
   end
-end
+  end
   outer_results
 end

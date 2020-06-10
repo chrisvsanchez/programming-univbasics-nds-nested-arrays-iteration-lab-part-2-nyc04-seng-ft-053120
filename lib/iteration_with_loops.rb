@@ -50,5 +50,4 @@ while row_index < src.count do
   end
   outer_results
   end
-#   outer_results
-# end
+
